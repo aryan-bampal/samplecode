@@ -1,2 +1,3 @@
 # samplecode
-This sample code was taken from my winter internship at keolis
+Javasample code is taken from my winter internship at keolis
+Pythonsample code is taken from ML project
